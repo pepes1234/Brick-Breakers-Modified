@@ -1,0 +1,22 @@
+C:\Users\Lucas\source\repos\joguinho da bolinha\joguinho da bolinha\bin\Debug\joguinho da bolinha.exe.config
+C:\Users\Lucas\source\repos\joguinho da bolinha\joguinho da bolinha\bin\Debug\joguinho da bolinha.exe
+C:\Users\Lucas\source\repos\joguinho da bolinha\joguinho da bolinha\bin\Debug\joguinho da bolinha.pdb
+C:\Users\Lucas\source\repos\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho da bolinha.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho da bolinha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\source\repos\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho_da_bolinha.Form1.resources
+C:\Users\Lucas\source\repos\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho_da_bolinha.Properties.Resources.resources
+C:\Users\Lucas\source\repos\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho da bolinha.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho da bolinha.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho da bolinha.exe
+C:\Users\Lucas\source\repos\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho da bolinha.pdb
+C:\Users\Lucas\Documents\GitHub\Brick-Breakers-Modified\joguinho da bolinha\joguinho da bolinha\bin\Debug\joguinho da bolinha.exe.config
+C:\Users\Lucas\Documents\GitHub\Brick-Breakers-Modified\joguinho da bolinha\joguinho da bolinha\bin\Debug\joguinho da bolinha.exe
+C:\Users\Lucas\Documents\GitHub\Brick-Breakers-Modified\joguinho da bolinha\joguinho da bolinha\bin\Debug\joguinho da bolinha.pdb
+C:\Users\Lucas\Documents\GitHub\Brick-Breakers-Modified\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho da bolinha.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\Brick-Breakers-Modified\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho da bolinha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Documents\GitHub\Brick-Breakers-Modified\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho_da_bolinha.Form1.resources
+C:\Users\Lucas\Documents\GitHub\Brick-Breakers-Modified\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho_da_bolinha.Properties.Resources.resources
+C:\Users\Lucas\Documents\GitHub\Brick-Breakers-Modified\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho da bolinha.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\GitHub\Brick-Breakers-Modified\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho da bolinha.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\Brick-Breakers-Modified\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho da bolinha.exe
+C:\Users\Lucas\Documents\GitHub\Brick-Breakers-Modified\joguinho da bolinha\joguinho da bolinha\obj\Debug\joguinho da bolinha.pdb
